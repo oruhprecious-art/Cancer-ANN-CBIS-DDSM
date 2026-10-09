@@ -1,0 +1,2 @@
+model,threshold,accuracy,precision,recall,specificity,f1,roc_auc,true_negatives,false_positives,false_negatives,true_positives
+Model V3,0.3,0.3801498127340824,0.3801498127340824,1.0,0.0,0.5508819538670285,0.5459199619007933,0,331,0,203
